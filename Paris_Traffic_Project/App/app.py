@@ -16,7 +16,7 @@ app = dash.Dash(__name__)
 
 
 #Load Dataframe
-df=pd.read_csv("paris_traffic_2016.csv")
+df=pd.read_csv("Paris_traffic_2016.csv")
 
 
 #Convert timestamp and date to timestamp
